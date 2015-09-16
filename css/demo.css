@@ -97,7 +97,12 @@ h1 span, h5 {
 	font-weight: 400;
 	text-shadow: 0px 1px 1px #fff;
 }
-
+#refresh1{
+float:right;
+margin-right:5px;
+margin-top:5px;
+margin-bottom:5px;	
+}
 .wrapper {
 position: relative;
    width: 100%; 
